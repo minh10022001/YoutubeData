@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "n4c5GHVlXHGNwd2WQFne1mosH3s",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "WEmn1-1E7MQ8QGejnEYOwk0FgnE",
+            "id": "UCOmHUn--16B90oW2L6FRR3A",
+            "snippet": {
+                "title": "BLACKPINK",
+                "description": "BLACKPINK Official YouTube Channel\n\ube14\ub799\ud551\ud06c \uacf5\uc2dd \uc720\ud29c\ube0c \ucc44\ub110\uc785\ub2c8\ub2e4.\n\nJISOO, JENNIE, ROS\u00c9, LISA\n\uc9c0\uc218, \uc81c\ub2c8, \ub85c\uc81c, \ub9ac\uc0ac",
+                "customUrl": "@blackpinkofficial",
+                "publishedAt": "2016-06-29T03:15:23Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/hZDUwjoeQqigphL4A1tkg9c6hVp5yXmbboBR7PYFUSFj5PIJSA483NB5v7b0XVoTN9GCku3tqQ=s88-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/hZDUwjoeQqigphL4A1tkg9c6hVp5yXmbboBR7PYFUSFj5PIJSA483NB5v7b0XVoTN9GCku3tqQ=s240-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/hZDUwjoeQqigphL4A1tkg9c6hVp5yXmbboBR7PYFUSFj5PIJSA483NB5v7b0XVoTN9GCku3tqQ=s800-c-k-c0x00ffffff-no-nd-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "BLACKPINK",
+                    "description": "BLACKPINK Official YouTube Channel\n\ube14\ub799\ud551\ud06c \uacf5\uc2dd \uc720\ud29c\ube0c \ucc44\ub110\uc785\ub2c8\ub2e4.\n\nJISOO, JENNIE, ROS\u00c9, LISA\n\uc9c0\uc218, \uc81c\ub2c8, \ub85c\uc81c, \ub9ac\uc0ac"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUOmHUn--16B90oW2L6FRR3A"
+                }
+            },
+            "statistics": {
+                "viewCount": "27612195034",
+                "subscriberCount": "82700000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "444"
+            }
+        }
+    ]
+}
