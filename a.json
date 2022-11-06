@@ -1,0 +1,2561 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "S_PNVo7GsPcQAMUHLhhHuNdsesM",
+    "nextPageToken": "EAAaBlBUOkNESQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BYsZ0rfSgzD1ViCD5Ol3HKV02o4",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjBFNVlNSVVncEFV",
+            "snippet": {
+                "publishedAt": "2022-10-29T12:00:00Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK WORLD TOUR [BORN PINK] DALLAS HIGHLIGHT CLIP",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #WORLDTOUR #BORNPINK #DALLAS #HIGHLIGHT #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0E5YMIUgpAU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0E5YMIUgpAU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0E5YMIUgpAU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0E5YMIUgpAU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0E5YMIUgpAU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0E5YMIUgpAU"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "0E5YMIUgpAU",
+                "videoPublishedAt": "2022-10-29T12:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HBfgQDnq5MXnLGOVG6ir5Rbzo_4",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjJ3RWk3TzBuenFR",
+            "snippet": {
+                "publishedAt": "2022-10-20T11:00:01Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK WORLD TOUR [BORN PINK] SEOUL HIGHLIGHT CLIP",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #WORLDTOUR #BORNPINK #SEOUL #HIGHLIGHT #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2wEi7O0nzqQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2wEi7O0nzqQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2wEi7O0nzqQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2wEi7O0nzqQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2wEi7O0nzqQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2wEi7O0nzqQ"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "2wEi7O0nzqQ",
+                "videoPublishedAt": "2022-10-20T11:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "el2lafWDDWbw-eAVPbFjg1Dqw7U",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLkIwWHVhZGJwM2VB",
+            "snippet": {
+                "publishedAt": "2022-10-14T03:00:04Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK WORLD TOUR [BORN PINK] SEOUL D-1 MESSAGE VIDEO",
+                "description": "SEE YOU SOON IN SEOUL!\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #WORLDTOUR #BORNPINK #SEOUL #20221015_6pmKST #20221016_5pmKST #KSPO_DOME #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B0Xuadbp3eA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B0Xuadbp3eA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B0Xuadbp3eA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B0Xuadbp3eA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B0Xuadbp3eA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "B0Xuadbp3eA"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "B0Xuadbp3eA",
+                "videoPublishedAt": "2022-10-14T03:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u3K56DYZzbk7obAPbv5PQ3XAK48",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlpQQTM3WUVTejJV",
+            "snippet": {
+                "publishedAt": "2022-10-13T07:00:11Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK WORLD TOUR [BORN PINK] BAND PRACTICE SKETCH",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #WORLDTOUR #BORNPINK #BAND_PRACTICE_SKETCH #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZPA37YESz2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZPA37YESz2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZPA37YESz2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZPA37YESz2U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZPA37YESz2U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZPA37YESz2U"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "ZPA37YESz2U",
+                "videoPublishedAt": "2022-10-13T07:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FZwA9caRh4Jc2piqED0E8OTAVic",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlMxRVZ6czV0T1Zr",
+            "snippet": {
+                "publishedAt": "2022-09-23T09:00:16Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018BORN PINK\u2019 Countdown Party Replay",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #CountdownParty #Replay #YouTube #Now_Available #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S1EVzs5tOVk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S1EVzs5tOVk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S1EVzs5tOVk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S1EVzs5tOVk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/S1EVzs5tOVk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "S1EVzs5tOVk"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "S1EVzs5tOVk",
+                "videoPublishedAt": "2022-09-23T09:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ts9Mr45w69QvHcQXXfYWCO2MkqU",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjNvcjNkcDNxTlFV",
+            "snippet": {
+                "publishedAt": "2022-09-21T12:02:04Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 (Official Audio)",
+                "description": "BLACKPINK - \u2018Pink Venom\u2019\n\nKick in the door Waving the coco \n\ud31d\ucf58\uc774\ub098 \ucc59\uaca8 \uaef4\ub4e4 \uc0dd\uac01 \ub9d0\uace0\nI talk that talk Runways I walk walk \n\ub208 \uac10\uace0 pop pop \uc548 \ubd10\ub3c4 \ucc99 \n\nOne by one then Two by two\n\ub0b4 \uc190\ub05d \ud22d \ud558\ub098\uc5d0 \ub2e4 \ubb34\ub108\uc9c0\ub294 \uc911\n\uac00\uc9dc \uc1fc \uce58\uace4 \ud654\ub824\ud588\uc9c0\nMakes no sense You couldn\u2019t get a dollar outta me\n\n\uc790 \uc624\ub298 \ubc24\uc774\uc57c \ub09c \ub3c5\uc744 \ud488\uc740 \uaf43\n\ub124 \ud63c\uc744 \ube7c\uc557\uc740 \ub2e4\uc74c Look what you made us do \n\n\ucc9c\ucc9c\ud788 \ub110 \uc7a0\uc7ac\uc6b8 FIRE \uc794\uc778\ud560 \ub9cc\ud07c \uc544\ub984\ub2e4\uc6cc \n\nI bring the pain like \n\nThis that pink venom\nThis that pink venom\nThis that pink venom\nGet \u2018em, get \u2018em, get \u2018em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nTaste that pink venom\nTaste that pink venom\nTaste that pink venom\nGet \u2018em, get \u2018em, get \u2018em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nBlack paint and ammo, got bodies like Rambo\nRest in peace, please light up a candle\nThis da life of a vandal, masked up and I\u2019m still in Celine\nDesigner crimes or it wouldn\u2019t be me\n\nDiamonds shinin\u2019 drive in silence I don\u2019t mind it I\u2019m ridin\u2019 \nFlyin\u2019 private side by side with da pilot Up in the sky \nAnd I\u2019m wildin\u2019, stylin\u2019 on them and there\u2019s no chance\nCuz we got bodies on bodies like this a slow dance \n\n\uc790 \uc624\ub298 \ubc24\uc774\uc57c \ub09c \ub3c5\uc744 \ud488\uc740 \uaf43\n\ub124 \ud63c\uc744 \ube7c\uc557\uc740 \ub2e4\uc74c Look what you made us do \n\n\ucc9c\ucc9c\ud788 \ub110 \uc7a0\uc7ac\uc6b8 FIRE \uc794\uc778\ud560 \ub9cc\ud07c \uc544\ub984\ub2e4\uc6cc \n\nI bring the pain like\n\nThis that pink venom\nThis that pink venom\nThis that pink venom\nGet \u2018em, get \u2018em, get \u2018em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nTaste that pink venom\nTaste that pink venom\nTaste that pink venom\nGet \u2018em, get \u2018em, get \u2018em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\n\uc6d0\ud55c\ub2e4\uba74 provoke us\n\uac10\ub2f9 \ubabb\ud574 and you know this\n\n\uc774\ubbf8 \ud37c\uc838\ubc84\ub9b0 shot that potion \ub124 \ub208\uc55e\uc740 \ud551\ud06c\ube5b ocean\n\nCome and give me all the smoke \ub3c4 \uc544\ub2c8\uba74 \ubaa8 like I\u2019m so rock and roll \n\nCome and give me all the smoke \ub2e4 \uc904 \uc138\uc6cc \ubd10 \uc790 STOP DROP\n\nI bring the pain like\n\nLa tatata La tatata La tatata La tatata \nLa tatata La tatata \n\nStraight to ya\nStraight to ya\nStraight to ya dome like\n\nLa tatata La tatata La tatata La tatata\nLa tatata La tatata\n\nI bring the pain like \n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #PinkVenom #Official_Audio #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3or3dp3qNQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3or3dp3qNQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3or3dp3qNQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3or3dp3qNQU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3or3dp3qNQU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3or3dp3qNQU"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "3or3dp3qNQU",
+                "videoPublishedAt": "2022-09-21T12:02:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gM_oORkoqbNKpz_yhv32EwvNmVY",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLkpEUnlxVXgxWDhN",
+            "snippet": {
+                "publishedAt": "2022-09-21T12:01:47Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Shut Down\u2019 (Official Audio)",
+                "description": "BLACKPINK - \u2018Shut Down\u2019\n\nBlackpink in your area\nBlackpink in your area\n\n\ucef4\ubc31\uc774 \uc544\ub0d0 \ub5a0\ub09c \uc801 \uc5c6\uc73c\ub2c8\uae4c\n\uace0\uac1c\ub4e4\uc774 \ub3cc\uc544 \uc9c4\uc815\ud574 \ubaa9 \uaebe\uc77c\ub77c\n\ubd84\ud64d\ube5b\uc758 \uc5bc\uc74c drip drip drip freeze \u2018em on sight\nShut it down what what what what\n\n\uac8c\uc784\uc774 \uc544\ub0d0 \uc9c4 \uc801\uc774 \uc5c6\uc73c\ub2c8\uae4c\n\uc9d6\uc5b4\ubd10 \ub124 \ubaa9\uc5d0 \ubaa9\uc904\uc740 \ub0b4 \uac70\ub2c8\uae4c\n\ub545\ubc14\ub2e5\uc5d0 \ub2ff\uc740 pedal we go two zero five \nShut it down uh uh uh uh\n\n\ucd08\ub85d \ube44\ub97c \ub0b4\ub824 \uba38\ub9ac \uc704\ub85c Don\u2019t trip, baby\n\uacb8\uc190\ud558\uac8c \uadf8\ub0e5 \uc549\uc544\uc788\uc5b4 Just sit, baby\n\nPraying for my downfall, many have tried, baby\nCatch me when you hear my Lamborghini go vroom, vroom, vroom, vroom\n\nWhen we pull up you know it\u2019s a shutdown\n\uac04\ud310 \ub0b4\ub9ac\uace0 \ubb38 \uc7a0\uac00 shut down\nWhip it whip it whip it whip it\nWhip it whip it whip it whip it\nIt\u2019s black and it\u2019s pink once the sun down\n\nWhen we pull up you know it\u2019s a shutdown\n\uac04\ud310 \ub0b4\ub9ac\uace0 \ubb38 \uc7a0\uac00 shut down\nWhip it whip it whip it whip it \nWhip it whip it whip it whip it \nKeep watching me shut it down \n\nNah\nYou don\u2019t wanna be on my bad side that\u2019s right I\u2019m slidin\u2019 through\nBunch of wannabes that wanna be me, me three if I was you\nBeen around the world, pearls on ya girl, VVS's we invested uh\nNeed a lesson see the necklace, see these dresses \nWe don\u2019t buy it we request it uh\n\nA rockstar, a popstar but rowdier\nSay bye to the paparazzi, get my good side, I'll smile for ya\nKnow it ain\u2019t fair to ya, it\u2019s scarin\u2019 ya like what now\nBlackpink in your area, the area been shut down. It\u2019s a shutdown\n\n\ub124 \ub2e4\uc74c \ub2f5\uc548\uc9c0\uc57c \ub611\ubc14\ub85c \ubd10 don\u2019t sleep baby\n\ub4a4\uc9d1\uc5b4\ubd10 \uc774\uac74 \uac00\uaca9\ud45c\uc57c ain\u2019t cheap baby\n\nStay in your own lane \u2018cause I\u2019m \u2018bout to swerve\nCatch me when you hear my Lamborghini go vroom, vroom, vroom, vroom\n\nWhen we pull up you know it\u2019s a shutdown\n\uac04\ud310 \ub0b4\ub9ac\uace0 \ubb38 \uc7a0\uac00 shut down\n\n\nWhip it whip it whip it whip it\nWhip it whip it whip it whip it\n\nIt\u2019s black and it\u2019s pink once the sun down\n\nWhen we pull up you know it\u2019s a shutdown\n\uac04\ud310 \ub0b4\ub9ac\uace0 \ubb38 \uc7a0\uac00 shut down\n\nWhip it whip it whip it whip it \nWhip it whip it whip it whip it \n\nKeep watching me shut it down\n\nShut it down Blackpink in your area\nShut it down woah woah woah woah\nShut it down Blackpink in your area\nKeep talking we shut you down\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #Title #ShutDown #Official_Audio #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JDRyqUx1X8M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JDRyqUx1X8M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JDRyqUx1X8M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JDRyqUx1X8M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JDRyqUx1X8M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JDRyqUx1X8M"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "JDRyqUx1X8M",
+                "videoPublishedAt": "2022-09-21T12:01:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uXhxwDYoVxcDKx2mJNLf6NzEx0w",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlVoeFc5TmpxcXUw",
+            "snippet": {
+                "publishedAt": "2022-09-21T12:01:25Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Typa Girl\u2019 (Official Audio)",
+                "description": "BLACKPINK - \u2018Typa Girl\u2019\n\nTypa girl that\u2019ll make you wanna dream\n\nTypa girl that came straight off of the screen\n\nTypa girl you wanna ice up make me freeze \n\nTypa girl you wanna wife up sign the pree\n\n\nI bring money to the table \nNot your dinner \nBoth my body and my bank account \nGood figure\nThinking about me but there\u2019s nothing to consider \nIf I let you in my circle you a winner \n\nDidn\u2019t know that you were cold\n\u2019Til you felt my fire\nHeaven\u2019s gate just opened up\nHearing choirs \nIf you saying something else \nYou a liar\n\n\u2018Cause I\u2019m that girl that drive you crazy\nBut you can\u2019t leave me alone \nGot you thinking maybe \nI went supernatural \n\nPut you under spells or \nLook into a crystal ball \nI'm not like these other girls at all \n\nI\u2019m the typa girl that make you forget that you got a type \nType that make you love me when the only thing you done is like \n\nI\u2019m that typa girl \nI\u2019m that typa girl \nI\u2019m that typa girl \nI\u2019m that typa girl \n\nLike du du dun\ndu lu lu lun\nLike du du dun\ndu lu lu lun\n\nI\u2019m the type of girl \nThat everybody type \nDouble tap tap tap \nWhat everybody like \nYou can check my stats \nGot everybody\u2019s eye\nAnd I run them laps\nRound everybody\u2019s mind\n\nAll of these girls on some uppercase ****\nThat mean they all cap \nBeing the best at whatever I do \nThat\u2019s sounding on brand \n\nTypa girl that you wish for when you blow that candle out\n\nTypa girl that you wanna take back to your mama house\n\nTypa girl that don't ask for what she wants, she\u2019s takin' out \n\nTypa girl who got bag in same quality as Chanel\n\nNow you know that you were cold \n\u2018Cause you felt my fire\nHeaven\u2019s gate just opened up \nHearing choirs \nIf you saying something else \nYou a liar \n\n\u2018Cause I\u2019m that girl \nThat drive you crazy \nBut you can\u2019t leave me alone \nGot you thinking maybe \nI went supernatural\n\nPut you under spells or \nLook into a crystal ball \nI'm not like these other girls at all \n\nI\u2019m the type of girl that make you forget that you got a type \nType that make you love me when the only thing you done is like \n\nI\u2019m that typa girl \nI\u2019m that typa girl\nI\u2019m that typa girl \nI\u2019m that typa girl\n\nLike du du dun\ndu lu lu lun\nLike du du dun\ndu lu lu lun\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #TypaGirl #Official_Audio #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UhxW9Njqqu0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UhxW9Njqqu0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UhxW9Njqqu0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UhxW9Njqqu0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UhxW9Njqqu0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UhxW9Njqqu0"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "UhxW9Njqqu0",
+                "videoPublishedAt": "2022-09-21T12:01:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CEKaKrDSylFShuqF-spE0gFjH0w",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLndRVGp2LVhvMWdZ",
+            "snippet": {
+                "publishedAt": "2022-09-21T12:01:09Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Yeah Yeah Yeah\u2019 (Official Audio)",
+                "description": "BLACKPINK - \u2018Yeah Yeah Yeah\u2019\n\n\ub098 \uc65c \uc774\ub798\n\uc790\uafb8\ub9cc \uc6c3\uc74c\uc774\ub098\n\ub10c \ubab0\ub77c \ub0b4\uac00 \uc65c \uc774\ub7ec\ub294\uc9c0\n\n\ub9d0\ub3c4 \uc548 \ub3fc \ub09c \ub108\uc5d0\uac8c\n\ub04c\ub824 \ubc84\ub838\uc5b4\n\ub108\uc758 \ubb34\uc2ec\ud55c \ub9d0\ud22c\uc5d0\n\ube60\uc838\ubc84\ub9b0 \ub0b4\uac00 \uc6b0\uc2a4\uc6cc\n\n\ub10c \uc65c \ub098\ud0c0\ub098\uc11c\n\ubb54\ub370 \uc790\uafb8 \uc0dd\uac01\ub098\n\n\ud639\uc2dc \ub098 \uc88b\uc544\ud558\uba74\n\ub9d0\ud574\n\nJust say yeah yeah yeah\n\nJust say yeah yeah yeah\n\n\ub610 \uc65c \uc774\ub798\n\ub098\ub3c4 \ub0a0 \ubaa8\ub974\uaca0\uc5b4\n\uc544\uc774 \ubab0\ub77c \uc560\ub9e4\ubaa8\ud638\ud55c \ub0b4 \ub9d8\n\n\ub9d0\ub3c4 \uc548 \ub418\ub294 \ub108\uc640 \ub098\uc758 \uccab \ub9cc\ub0a8\n\uc774\uac74 \ub204\uad70\uac00 \uc4f4 \uac01\ubcf8\n\uc6b0\uc5f0\uc774\uae30\uc5d4 \uc880 \uc218\uc0c1\ud574\n\n\ub10c \uc65c \ub098\ud0c0\ub098\uc11c\n\ubb54\ub370 \uc790\uafb8 \uc0dd\uac01\ub098\n \n\ud639\uc2dc \ub098 \uc88b\uc544\ud558\uba74\n\ub9d0\ud574\n\nJust say yeah yeah yeah\n\nJust say yeah yeah yeah\n\n\uc0ac\uc2e4 \ub09c \uc880 \ub450\ub835\uae30\ub3c4 \ud574\n\ub610 \ud55c \ubc88 \ub354 \uc0ac\ub791\uc5d0 \ub098 \uc544\ud50c\uae4c\n\n\uc6b4\uba85\uc774 \ub358\uc9c4 \uc9c8\ubb38 \uc55e\uc5d0 \ndon\u2019t you say no oh oh oh\n\nJust say yeah yeah yeah\n\nSay yeah yeah yeah\n\nSay yeah yeah yeah\n\nSay yeah yeah yeah\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #YeahYeahYeah #Official_Audio #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wQTjv-Xo1gY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wQTjv-Xo1gY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wQTjv-Xo1gY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wQTjv-Xo1gY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wQTjv-Xo1gY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wQTjv-Xo1gY"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "wQTjv-Xo1gY",
+                "videoPublishedAt": "2022-09-21T12:01:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Fak01cb2VW02CHeR5MZrHKBDVFU",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjdIcjNwMUJIQ19F",
+            "snippet": {
+                "publishedAt": "2022-09-21T12:00:53Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Hard to Love\u2019 (Official Audio)",
+                "description": "BLACKPINK - \u2018Hard to Love\u2019\n\nAin\u2019t no magic tool to fix it\nYou should keep your distance\nI\u2019m only telling you because I care\n\n\u2018Cause I\u2019m hard to love\nFind it hard to trust\nWhen it feels too good \nI just **** it up\nYou want all of me\nI can\u2019t give that much\nSo don\u2019t fall too hard\n\u2018Cause I\u2019m hard to love\n\n(Hard to love)\n(Yeah)\n\nNever meant to cause you a problem\nHere I am yet once again with the same old story\nYou don\u2019t see the issues, I got \u2018em\nYeah I do, yeah it\u2019s true \n\nI\u2019ll make it feel like heaven\nBut I swear I\u2019m not a saint\nAnd you won\u2019t see the truth\n\u2018Cause I\u2019ll be kissing it away\nYeah I\u2019ll be all you need until I\u2019m driving you insane\nBaby all I\u2019m trying to do is save you the pain\n\n\u2018Cause I\u2019m hard to love\nFind it hard to trust\nWhen it feels too good \nI just **** it up\n\nYou want all of me \nI can\u2019t give that much\nSo don\u2019t fall too hard\n\u2018Cause I\u2019m hard to love\n\n(Hard to love)\n(Yeah)\n\nUp\n\u2019Til I\u2019m down\nI\u2019m all in\n\u2019Til I\u2019m out\nGot a lot\nTo work out \n\u2019Til it\u2019s all behind me\nYou know you don\u2019t\nPlay with fire in the dark\nProtect your heart\nAin\u2019t no going back once you start\nI\u2019m trying to be nice\n\n(Hard to love)\n(Yeah)\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #HardtoLove #Official_Audio #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7Hr3p1BHC_E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7Hr3p1BHC_E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7Hr3p1BHC_E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7Hr3p1BHC_E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7Hr3p1BHC_E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7Hr3p1BHC_E"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "7Hr3p1BHC_E",
+                "videoPublishedAt": "2022-09-21T12:00:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ABZEKGiSqC_9KDb7JOLGA8e-2Vg",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLmtWWGF6RTh3UjFR",
+            "snippet": {
+                "publishedAt": "2022-09-21T12:00:37Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018The Happiest Girl\u2019 (Official Audio)",
+                "description": "BLACKPINK - \u2018The Happiest Girl\u2019\n\nDon\u2019t hold my hand \nDon\u2019t beg me back\nDon\u2019t say that we\u2019ll make it through this\nIf I\u2019m so beautiful then why\n\nThe doors we slammed\nThe plates we smashed\nEcho with the sound of madness\nI can\u2019t remember why we try\n\nMy heart only wants you\nThe moment you say no\n\nBut tonight I\u2019ll be the happiest girl in the world\nYou\u2019ll see like it doesn\u2019t matter\nTonight I\u2019ll be the happiest girl in the world\nYou\u2019ll see like it never happened\n\nI can stop the tears if I want to\nI can stop the tears if I want to\nI can stop the tears if I want to\n\nBut tonight I\u2019ll be the happiest girl in the world\nYou\u2019ll see like it never happened\n\nDon\u2019t make us saints \nWe\u2019re wards of pain\nThe past and a perfect picture\nThere\u2019s no one else to blame this time\n\nDon\u2019t change the truth \nWe can\u2019t undo the high we chase steal the crash no\nYou\u2019re not the one, who gets to cry\n\nMy heart only wants you\nThe moment you say no\n\nBut tonight I\u2019ll be the happiest girl in the world\nYou\u2019ll see like it doesn\u2019t matter\nTonight I\u2019ll be the happiest girl in the world\nYou\u2019ll see like it never happened\n\nI can stop the tears if I want to\nI can stop the tears if I want to\nI can stop the tears if I want to\n\nBut tonight I\u2019ll be the happiest girl in the world\nYou\u2019ll see like it never happened\n\nAll it takes is a smooth pop of a bottle top to fix a heart \nA broken heart baby\n\nAll it takes is a little rolling paper take us to the start\nGo back to the start\n\nBut tonight I\u2019ll be the happiest girl in the world\nYou\u2019ll see like it doesn\u2019t matter\nTonight I\u2019ll be the happiest girl in the world\nYou\u2019ll see like it never happened\n\nI can stop the tears if I want to\nI can stop the tears if I want to\nI can stop the tears if I want to\n\nBut tonight I\u2019ll be the happiest girl in the world\nYou\u2019ll see like it never happened\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #TheHappiestGirl #Official_Audio #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kVXazE8wR1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kVXazE8wR1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kVXazE8wR1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kVXazE8wR1Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kVXazE8wR1Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kVXazE8wR1Q"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "kVXazE8wR1Q",
+                "videoPublishedAt": "2022-09-21T12:00:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "K-8ECLnyeY4-YzC-Y6_Eg1rAL7Q",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlZRbzRoeVdmQlE0",
+            "snippet": {
+                "publishedAt": "2022-09-21T12:00:19Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Tally\u2019 (Official Audio)",
+                "description": "BLACKPINK - \u2018Tally\u2019 \n\nI say **** it when I feel it \n\u2018Cause no one\u2019s keeping tally, I do what I want with who I like   \nI ain\u2019t gon\u2019 conceal it\nWhile you talkin\u2019 all that ****\nI\u2019ll be gettin\u2019 mine, gettin\u2019 mine \n\nDon\u2019t apologize for my behavior\nIf you\u2019re offended, I don\u2019t care\nStaring at me instead of staring in the mirror \nLittle weird how   \n \nEverybody tells me to play nice\nEverybody judge but looking twice \nBut my body don\u2019t belong to nah-uh-uh none of them though \nAnd I\u2019m not gonna change \u2018cause you say so  \n\nI say **** it when I feel it \n\u2018Cause no one\u2019s keeping tally\nI do what I want with who I like \nI ain\u2019t gon\u2019 conceal it\nWhile you talkin\u2019 all that **** \nI\u2019ll be gettin\u2019 mine, gettin\u2019 mine\n\nYeah I say **** it when I feel it \n\u2018Cause no one\u2019s keeping tally\nI do what I want with who I like\nAnd I ain\u2019t gon\u2019 conceal it\nI\u2019ll just do it like the boys say \nI\u2019m gettin\u2019 mine, gettin\u2019 mine\n\nTold me to play it cool\nI break the rules, I\u2019m breakin\u2019 hearts in two\nWarned me to make the rules\nOr play the fool, it ain\u2019t that hard to choose\nTake apart the do\u2019s and don\u2019ts\nAnd lose the won\u2019ts, I\u2019m gettin\u2019 mine\nMines is mine, yours is mine, this is mine, get in line\n\nSometimes I like to go play dirty \nJust like all of the **** boys do \nThat\u2019s my choice and there\u2019s no one I\u2019m hurting \nBut that\u2019s not girly\n\nEverybody tells me to play nice\nEverybody judge but looking twice \nBut my body don\u2019t belong to nah-uh-uh none of them though\nAnd I\u2019m not gonna change \u2018cause you say so  \n\nI say **** it when I feel it \n\u2018Cause no one\u2019s keeping tally\nI do what I want with who I like \nI ain\u2019t gon\u2019 conceal it\nWhile you talkin\u2019 all that ****\nI\u2019ll be gettin\u2019 mine, gettin\u2019 mine\n\nYeah I say **** it when I feel it \n\u2018Cause no one\u2019s keeping tally\nI do what I want with who I like\nAnd I ain\u2019t gon\u2019 conceal it\nI\u2019ll just do it like the boys say\nI\u2019m gettin\u2019 mine, gettin\u2019 mine\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #Tally #Official_Audio #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VQo4hyWfBQ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VQo4hyWfBQ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VQo4hyWfBQ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VQo4hyWfBQ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VQo4hyWfBQ4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VQo4hyWfBQ4"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "VQo4hyWfBQ4",
+                "videoPublishedAt": "2022-09-21T12:00:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Do1rX3obfHerbf6VwtkvrYxhk2c",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLi1XZHV6b3JfWTFR",
+            "snippet": {
+                "publishedAt": "2022-09-21T12:00:02Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Ready For Love\u2019 (Official Audio)",
+                "description": "BLACKPINK - \u2018Ready For Love\u2019\n\n\uc624\ub298 \ud558\ub8e8\ub3c4 \ub0b4 \uba38\ub9bf\uc18d\uc740 \uc624\uc9c1 Y-O-U\nCan\u2019t get you out of my head\n\ubc24\uc0c8 \ube44\uc6cc\ub0b8 \ubcd1\uc758 \uc0c9\uc740 BLUE\n\nYeah, \ub10c \ub3c4\ub300\uccb4 \uba87 \ubc88\uc744 \ub0b4 \ub9d8 \uac00\uc838\ub2e4 \ubc84\ub9b0 \uac74\uc9c0 \ubab0\ub77c\n\uc0dd\uac01\uc758 \uae30\ucc28\ub294 \uc26c\uc9c0 \uc54a\uace0 \ub2ec\ub824\uac00 \ubc24\uc0c8 \ubabb \uc790\n\nYeah, \ub10c \uc544\uc26c\uc6b8 \ub54c\ub9cc Yeah, \uadf8\uc800 \uc544\uc26c\uc6b8 \ub54c\ub9cc \ub0a0\nYeah, \uadf8\ub798 \uc544\uc26c\uc6b8 \ub54c\ub77c\ub3c4 \ub108\ub77c\uba74 \uc88b\uc73c\ub2c8\uae4c\n\n\uc774\uc820 \uae30\ub2e4\ub9b4 \uac83\ub3c4 \uc5c6\uc796\uc544\n\uac81\ub0bc \ud544\uc694\ub3c4 \uc5c6\uc796\uc544\n\ub124 \uc2ec\uc7a5\uc758 \uc0c9\uae54\uc744 \ubcf4\uc5ec\uc918\n\n\uc815\ub9d0 \ub0b4 \uc138\uc0c1\uc5d4 \ub124\uac00 \ud544\uc694\ud574\n\ub450 \ub208\uc744 \ub5a0\ubd10 \ub124 \uc55e\uc5d0 Here I am\n\nI\u2019m ready for love\n\nTell me when you\u2019re ready\nCuz I\u2019m already ready\nTell me when you\u2019re ready\nCuz \n\nI\u2019m ready for love\nI\u2019m ready for love I\u2019m ready for love\nI\u2019m ready for love\nI\u2019m ready for love\n\nReady or not, here I come and I\u2019m running\nLike it\u2019s now or never, I never know if you want it\nWhat if love wasn\u2019t what it was supposed to be?\nWhat if there\u2019s no Romeo for me?\nNo hope, no roses, no more notes to read\nSo I keep my eyes closed to see\nWhat I need is forever and forever baby, not sometimes\nWhen you want it then you best come find me cuz I\u2018m ready\n\n\uc774\uc820 \uae30\ub2e4\ub9b4 \uac83\ub3c4 \uc5c6\uc796\uc544\n\uac81\ub0bc \ud544\uc694\ub3c4 \uc5c6\uc796\uc544\n\ub124 \uc2ec\uc7a5\uc758 \uc0c9\uae54\uc744 \ubcf4\uc5ec\uc918\n\n\uc815\ub9d0 \ub0b4 \uc138\uc0c1\uc5d4 \ub124\uac00 \ud544\uc694\ud574 \n\ub450 \ub208\uc744 \ub5a0\ubd10 \ub124 \uc55e\uc5d0 Here I am\n\nI\u2019m ready for love\n\nTell me when you\u2019re ready\nCuz I\u2019m already ready\nTell me when you\u2019re ready\nCuz\n\nI\u2019m ready for love\nI\u2019m ready for love I\u2019m ready for love\nI\u2019m ready for love\nI\u2019m ready for love\n\n\ub124 \uc601\ud63c\uacfc \ubaa8\ub4e0 \uac83\uc774\n\ub0a0 \ud669\ud640\ud558\uac8c \ud574 \uae30\ubed0 \uc6c3\uac8c \ud574\n\ub098\uc060 \uac70 \uc5c6\uc796\uc544\n\n\ub124 \ubaa8\ub4e0 \uac78 \ub0a0 \uc704\ud574 \ub358\uc9c8 \ub54c\n\ub110 \uc9c0\ucf1c\uc904\uac8c\n\nLalala lalalala Lalala lalalala\nLalala lalalala Lalala lalalala\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #ReadyForLove #Official_Audio #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-Wduzor_Y1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-Wduzor_Y1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-Wduzor_Y1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-Wduzor_Y1Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-Wduzor_Y1Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-Wduzor_Y1Q"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "-Wduzor_Y1Q",
+                "videoPublishedAt": "2022-09-21T12:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S9PqpC8ydfaMz-fgW6uVUN_BmDE",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLkwweklVVlZFVzZn",
+            "snippet": {
+                "publishedAt": "2022-09-20T15:00:21Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Shut Down\u2019 M/V MAKING FILM",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #ShutDown #MV_MAKING #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L0zIUVVEW6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L0zIUVVEW6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L0zIUVVEW6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/L0zIUVVEW6g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/L0zIUVVEW6g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "L0zIUVVEW6g"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "L0zIUVVEW6g",
+                "videoPublishedAt": "2022-09-20T15:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "voPl8zDJds-WEIbvPwU4gsJC7tc",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlBqckF3QzRUSVBB",
+            "snippet": {
+                "publishedAt": "2022-09-18T15:00:14Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Shut Down\u2019 DANCE PERFORMANCE VIDEO",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #ShutDown #DANCE_PERFORMANCE_VIDEO #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PjrAwC4TIPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PjrAwC4TIPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PjrAwC4TIPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PjrAwC4TIPA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PjrAwC4TIPA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PjrAwC4TIPA"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "PjrAwC4TIPA",
+                "videoPublishedAt": "2022-09-18T15:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H5W2iLSJJootVzisw21j7RKDEbw",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlBPZTlTT0VLb3Rr",
+            "snippet": {
+                "publishedAt": "2022-09-16T04:00:12Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Shut Down\u2019 M/V",
+                "description": "BLACKPINK - \u2018Shut Down\u2019\n\nBlackpink in your area\nBlackpink in your area\n\n\ucef4\ubc31\uc774 \uc544\ub0d0 \ub5a0\ub09c \uc801 \uc5c6\uc73c\ub2c8\uae4c\n\uace0\uac1c\ub4e4\uc774 \ub3cc\uc544 \uc9c4\uc815\ud574 \ubaa9 \uaebe\uc77c\ub77c\n\ubd84\ud64d\ube5b\uc758 \uc5bc\uc74c drip drip drip freeze \u2018em on sight\nShut it down what what what what\n\n\uac8c\uc784\uc774 \uc544\ub0d0 \uc9c4 \uc801\uc774 \uc5c6\uc73c\ub2c8\uae4c\n\uc9d6\uc5b4\ubd10 \ub124 \ubaa9\uc5d0 \ubaa9\uc904\uc740 \ub0b4 \uac70\ub2c8\uae4c\n\ub545\ubc14\ub2e5\uc5d0 \ub2ff\uc740 pedal we go two zero five \nShut it down uh uh uh uh\n\n\ucd08\ub85d \ube44\ub97c \ub0b4\ub824 \uba38\ub9ac \uc704\ub85c Don\u2019t trip, baby\n\uacb8\uc190\ud558\uac8c \uadf8\ub0e5 \uc549\uc544\uc788\uc5b4 Just sit, baby\n\nPraying for my downfall, many have tried, baby\nCatch me when you hear my Lamborghini go vroom, vroom, vroom, vroom\n\nWhen we pull up you know it\u2019s a shutdown\n\uac04\ud310 \ub0b4\ub9ac\uace0 \ubb38 \uc7a0\uac00 shut down\nWhip it whip it whip it whip it\nWhip it whip it whip it whip it\nIt\u2019s black and it\u2019s pink once the sun down\n\nWhen we pull up you know it\u2019s a shutdown\n\uac04\ud310 \ub0b4\ub9ac\uace0 \ubb38 \uc7a0\uac00 shut down\nWhip it whip it whip it whip it \nWhip it whip it whip it whip it \nKeep watching me shut it down \n\nNah\nYou don\u2019t wanna be on my bad side that\u2019s right I\u2019m slidin\u2019 through\nBunch of wannabes that wanna be me, me three if I was you\nBeen around the world, pearls on ya girl, VVS's we invested uh\nNeed a lesson see the necklace, see these dresses \nWe don\u2019t buy it we request it uh\n\nA rockstar, a popstar but rowdier\nSay bye to the paparazzi, get my good side, I'll smile for ya\nKnow it ain\u2019t fair to ya, it\u2019s scarin\u2019 ya like what now\nBlackpink in your area, the area been shut down. It\u2019s a shutdown\n\n\ub124 \ub2e4\uc74c \ub2f5\uc548\uc9c0\uc57c \ub611\ubc14\ub85c \ubd10 don\u2019t sleep baby\n\ub4a4\uc9d1\uc5b4\ubd10 \uc774\uac74 \uac00\uaca9\ud45c\uc57c ain\u2019t cheap baby\n\nStay in your own lane \u2018cause I\u2019m \u2018bout to swerve\nCatch me when you hear my Lamborghini go vroom, vroom, vroom, vroom\n\nWhen we pull up you know it\u2019s a shutdown\n\uac04\ud310 \ub0b4\ub9ac\uace0 \ubb38 \uc7a0\uac00 shut down\n\nWhip it whip it whip it whip it\nWhip it whip it whip it whip it\n\nIt\u2019s black and it\u2019s pink once the sun down\n\nWhen we pull up you know it\u2019s a shutdown\n\uac04\ud310 \ub0b4\ub9ac\uace0 \ubb38 \uc7a0\uac00 shut down\n\nWhip it whip it whip it whip it \nWhip it whip it whip it whip it \n\nKeep watching me shut it down\n\nShut it down Blackpink in your area\nShut it down woah woah woah woah\nShut it down Blackpink in your area\nKeep talking we shut you down\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttps://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttps://www.instagram.com/BLACKPINKOFFICIAL/\nhttps://twitter.com/BLACKPINK\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #ShutDown #MV\u00a0\n#20220916_12amEST #20220916_1pmKST #OutNow #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/POe9SOEKotk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/POe9SOEKotk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/POe9SOEKotk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/POe9SOEKotk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/POe9SOEKotk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "POe9SOEKotk"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "POe9SOEKotk",
+                "videoPublishedAt": "2022-09-16T04:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ra5RBmL025FriGEOfl7jbLOdqUU",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLll6aWdRLTkzaWc4",
+            "snippet": {
+                "publishedAt": "2022-09-13T15:00:20Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Shut Down\u2019 M/V TEASER",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #2ndAlbum #BORNPINK #Title #ShutDown #MV_Teaser #20220916_12amEST #20220916_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YzigQ-93ig8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YzigQ-93ig8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YzigQ-93ig8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YzigQ-93ig8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YzigQ-93ig8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YzigQ-93ig8"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "YzigQ-93ig8",
+                "videoPublishedAt": "2022-09-13T15:00:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ip54a0Zdeh1Hq7c7w0NaVTL1gVY",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjFubW42ZnJHZE9r",
+            "snippet": {
+                "publishedAt": "2022-08-27T09:00:03Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 [Light Up The Pink] Campaign 2022 Compilation",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c\u00a0#PreReleaseSingle #PinkVenom #LightUpThePink #Compilation #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1nmn6frGdOk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1nmn6frGdOk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1nmn6frGdOk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1nmn6frGdOk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1nmn6frGdOk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1nmn6frGdOk"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "1nmn6frGdOk",
+                "videoPublishedAt": "2022-08-27T09:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tvyajDBgtgTiJfPPa1s9Lqolg7M",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlJrS1hid2VCQ2NJ",
+            "snippet": {
+                "publishedAt": "2022-08-27T06:00:06Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 SPECIAL STAGE",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #SPECIAL_STAGE #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RkKXbweBCcI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RkKXbweBCcI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RkKXbweBCcI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RkKXbweBCcI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RkKXbweBCcI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RkKXbweBCcI"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "RkKXbweBCcI",
+                "videoPublishedAt": "2022-08-27T06:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5PTMb_LrP4xHX08-lIKoTtfq6v0",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLk5fRGxwLXVlRGY4",
+            "snippet": {
+                "publishedAt": "2022-08-26T09:00:12Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 Visualizer",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #Visualizer #\ube44\uc8fc\uc5bc\ub77c\uc774\uc800 #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N_Dlp-ueDf8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N_Dlp-ueDf8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N_Dlp-ueDf8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N_Dlp-ueDf8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N_Dlp-ueDf8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "N_Dlp-ueDf8"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "N_Dlp-ueDf8",
+                "videoPublishedAt": "2022-08-26T09:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bha3jsvBGe7DVIhyyWCAbyQ6Nss",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLmRlcjZwTlZLZlhR",
+            "snippet": {
+                "publishedAt": "2022-08-26T05:00:25Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK WORLD TOUR [BORN PINK] SEOUL MESSAGE VIDEO",
+                "description": "BLINK MEMBERSHIP Presales will open at 6PM(KST) today!\n\u25b6Buy access: https://tickets.interpark.com/goods/22010748\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #WORLDTOUR #BORNPINK #SEOUL #20221015_6pmKST #20221016_5pmKST #KSPO_DOME #\uc62c\ub9bc\ud53d\uccb4\uc870\uacbd\uae30\uc7a5 #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/der6pNVKfXQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/der6pNVKfXQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/der6pNVKfXQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/der6pNVKfXQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/der6pNVKfXQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "der6pNVKfXQ"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "der6pNVKfXQ",
+                "videoPublishedAt": "2022-08-26T05:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "L46SS_Y2M3WNeg8jQlS0XVFFVQg",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjR0Rjl5VDZUYUtN",
+            "snippet": {
+                "publishedAt": "2022-08-25T15:00:06Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 M/V REACTION",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #MV #MV_REACTION #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4tF9yT6TaKM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4tF9yT6TaKM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4tF9yT6TaKM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4tF9yT6TaKM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4tF9yT6TaKM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4tF9yT6TaKM"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "4tF9yT6TaKM",
+                "videoPublishedAt": "2022-08-25T15:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nP6zj3gJIlR0s60GNT3ewKSaSC4",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlJGTWkzdjBUWFA4",
+            "snippet": {
+                "publishedAt": "2022-08-24T15:00:15Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 DANCE PRACTICE VIDEO",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #PinkVenom #DANCE_PRACTICE_VIDEO #\uc548\ubb34\uc601\uc0c1 #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RFMi3v0TXP8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RFMi3v0TXP8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RFMi3v0TXP8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RFMi3v0TXP8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RFMi3v0TXP8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RFMi3v0TXP8"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "RFMi3v0TXP8",
+                "videoPublishedAt": "2022-08-24T15:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MKnHHipAGfzitW_Y258gJdTt9JA",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLmlfNDRmalNnY1RN",
+            "snippet": {
+                "publishedAt": "2022-08-22T14:00:01Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK x YouTube Shorts | #PinkVenomChallenge",
+                "description": "Show us your moves to our new single \u2018Pink Venom\u2019! Only on YouTube Shorts.\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i_44fjSgcTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i_44fjSgcTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i_44fjSgcTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i_44fjSgcTM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/i_44fjSgcTM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "i_44fjSgcTM"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "i_44fjSgcTM",
+                "videoPublishedAt": "2022-08-22T14:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "m1jyGTYNP96w_xQurfV1eGaO1pk",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLk9IbmJja3BlWHY4",
+            "snippet": {
+                "publishedAt": "2022-08-21T14:00:03Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "Create a Short to 'Pink Venom' & show us your moves with #PinkVenomChallenge only on YouTube Shorts",
+                "description": "\u26a0\ufe0f Get \u2018em, get \u2018em, get \u2018em \u26a0\ufe0f\nIt\u2019s time to taste that \ud83e\udd18Pink Venom\ud83e\udd18 Challenge\u2757\ufe0f\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OHnbckpeXv8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OHnbckpeXv8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OHnbckpeXv8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OHnbckpeXv8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OHnbckpeXv8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OHnbckpeXv8"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "OHnbckpeXv8",
+                "videoPublishedAt": "2022-08-21T14:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JZjvEdvF8Q9FpSQMr95ElJLLH_c",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlNqaVNZSnFRbFhV",
+            "snippet": {
+                "publishedAt": "2022-08-21T13:00:01Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "Show us what you\u2019ve got. Join the #PinkVenomChallenge & dance along. Only on YouTube Shorts.",
+                "description": "\u26a0\ufe0f Get \u2018em, get \u2018em, get \u2018em \u26a0\ufe0f\nIt\u2019s time to taste that \ud83e\udd18Pink Venom\ud83e\udd18 Challenge\u2757\ufe0f\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #LISA #\ub9ac\uc0ac #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SjiSYJqQlXU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SjiSYJqQlXU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SjiSYJqQlXU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SjiSYJqQlXU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SjiSYJqQlXU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SjiSYJqQlXU"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "SjiSYJqQlXU",
+                "videoPublishedAt": "2022-08-21T13:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OVsn32KvPY6w3CKHapvCeQCxKHg",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLm4tM2p6VmdGSmFj",
+            "snippet": {
+                "publishedAt": "2022-08-21T12:00:26Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "Bring your best dance moves and join the #PinkVenomChallenge with us. Only on YouTube Shorts.",
+                "description": "\u26a0\ufe0f Get \u2018em, get \u2018em, get \u2018em \u26a0\ufe0f\nIt\u2019s time to taste that \ud83e\udd18Pink Venom\ud83e\udd18 Challenge\u2757\ufe0f\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #ROS\u00c9 #\ub85c\uc81c #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n-3jzVgFJac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n-3jzVgFJac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n-3jzVgFJac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/n-3jzVgFJac/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/n-3jzVgFJac/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "n-3jzVgFJac"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "n-3jzVgFJac",
+                "videoPublishedAt": "2022-08-21T12:00:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TpSdktkPOwn_XgyIaQAAGG6j87k",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLkx1aTVHbHlRTDdV",
+            "snippet": {
+                "publishedAt": "2022-08-21T11:00:01Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "Show us that you are BORN PINK and join us in the #PinkVenomChallenge Only on YouTube Shorts.",
+                "description": "\u26a0\ufe0f Get \u2018em, get \u2018em, get \u2018em \u26a0\ufe0f\nIt\u2019s time to taste that \ud83e\udd18Pink Venom\ud83e\udd18 Challenge\u2757\ufe0f\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #JENNIE #\uc81c\ub2c8 #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lui5GlyQL7U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lui5GlyQL7U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lui5GlyQL7U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Lui5GlyQL7U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Lui5GlyQL7U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Lui5GlyQL7U"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "Lui5GlyQL7U",
+                "videoPublishedAt": "2022-08-21T11:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ima-Nids7_he3kmYCqn-laOz05M",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLld0SnlLaGFjZUcw",
+            "snippet": {
+                "publishedAt": "2022-08-21T10:00:01Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "\u201cGet em, get em, get em\u201d with us and join the #PinkVenomChallenge Only on YouTube Shorts.",
+                "description": "\u26a0\ufe0f Get \u2018em, get \u2018em, get \u2018em \u26a0\ufe0f\nIt\u2019s time to taste that \ud83e\udd18Pink Venom\ud83e\udd18 Challenge\u2757\ufe0f\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #JISOO #\uc9c0\uc218 #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WtJyKhaceG0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WtJyKhaceG0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WtJyKhaceG0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WtJyKhaceG0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WtJyKhaceG0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WtJyKhaceG0"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "WtJyKhaceG0",
+                "videoPublishedAt": "2022-08-21T10:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zdUTQx58lrAcnk0AIiXR2x7Fi1A",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlVBZ3dQVnY1UlJB",
+            "snippet": {
+                "publishedAt": "2022-08-20T00:00:04Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "Create a Short to 'Pink Venom' & show us your moves with #PinkVenomChallenge only on YouTube Shorts",
+                "description": "\u26a0\ufe0f Get \u2018em, get \u2018em, get \u2018em \u26a0\ufe0f\nIt\u2019s time to taste that \ud83e\udd18Pink Venom\ud83e\udd18 Challenge\u2757\ufe0f\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UAgwPVv5RRA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UAgwPVv5RRA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UAgwPVv5RRA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UAgwPVv5RRA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UAgwPVv5RRA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UAgwPVv5RRA"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "UAgwPVv5RRA",
+                "videoPublishedAt": "2022-08-20T00:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V7f3rS57C63AJ03rJ70piZr_rCo",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLnBEUDlTRVA3dkNv",
+            "snippet": {
+                "publishedAt": "2022-08-19T15:13:29Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 M/V MAKING FILM",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #MV_MAKING #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pDP9SEP7vCo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pDP9SEP7vCo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pDP9SEP7vCo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pDP9SEP7vCo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pDP9SEP7vCo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pDP9SEP7vCo"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "pDP9SEP7vCo",
+                "videoPublishedAt": "2022-08-19T15:13:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NuUgNNbBtITSG8wmeT7z7q7qetQ",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLmdRbE1NRDhhdU1z",
+            "snippet": {
+                "publishedAt": "2022-08-19T04:00:13Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 M/V",
+                "description": "BLACKPINK - \u2018Pink Venom\u2019\n\nKick in the door Waving the coco \n\ud31d\ucf58\uc774\ub098 \ucc59\uaca8 \uaef4\ub4e4 \uc0dd\uac01 \ub9d0\uace0\nI talk that talk Runways I walk walk \n\ub208 \uac10\uace0 pop pop \uc548 \ubd10\ub3c4 \ucc99 \n\nOne by one then Two by two\n\ub0b4 \uc190\ub05d \ud22d \ud558\ub098\uc5d0 \ub2e4 \ubb34\ub108\uc9c0\ub294 \uc911\n\uac00\uc9dc \uc1fc \uce58\uace4 \ud654\ub824\ud588\uc9c0\nMakes no sense You couldn\u2019t get a dollar outta me\n\n\uc790 \uc624\ub298 \ubc24\uc774\uc57c \ub09c \ub3c5\uc744 \ud488\uc740 \uaf43\n\ub124 \ud63c\uc744 \ube7c\uc557\uc740 \ub2e4\uc74c Look what you made us do \n\n\ucc9c\ucc9c\ud788 \ub110 \uc7a0\uc7ac\uc6b8 FIRE \uc794\uc778\ud560 \ub9cc\ud07c \uc544\ub984\ub2e4\uc6cc \n\nI bring the pain like \n\nThis that pink venom\nThis that pink venom\nThis that pink venom\nGet \u2018em, get \u2018em, get \u2018em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nTaste that pink venom\nTaste that pink venom\nTaste that pink venom\nGet \u2018em, get \u2018em, get \u2018em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nBlack paint and ammo, got bodies like Rambo\nRest in peace, please light up a candle\nThis da life of a vandal, masked up and I\u2019m still in Celine\nDesigner crimes or it wouldn\u2019t be me\n\nDiamonds shinin\u2019 drive in silence I don\u2019t mind it I\u2019m ridin\u2019 \nFlyin\u2019 private side by side with da pilot Up in the sky \nAnd I\u2019m wildin\u2019, stylin\u2019 on them and there\u2019s no chance\nCuz we got bodies on bodies like this a slow dance \n\n\uc790 \uc624\ub298 \ubc24\uc774\uc57c \ub09c \ub3c5\uc744 \ud488\uc740 \uaf43\n\ub124 \ud63c\uc744 \ube7c\uc557\uc740 \ub2e4\uc74c Look what you made us do \n\n\ucc9c\ucc9c\ud788 \ub110 \uc7a0\uc7ac\uc6b8 FIRE \uc794\uc778\ud560 \ub9cc\ud07c \uc544\ub984\ub2e4\uc6cc \n\nI bring the pain like\n\nThis that pink venom\nThis that pink venom\nThis that pink venom\nGet \u2018em, get \u2018em, get \u2018em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\nTaste that pink venom\nTaste that pink venom\nTaste that pink venom\nGet \u2018em, get \u2018em, get \u2018em\nStraight to ya dome like whoa whoa whoa \nStraight to ya dome like ah ah ah \n\n\uc6d0\ud55c\ub2e4\uba74 provoke us\n\uac10\ub2f9 \ubabb\ud574 and you know this\n\n\uc774\ubbf8 \ud37c\uc838\ubc84\ub9b0 shot that potion \ub124 \ub208\uc55e\uc740 \ud551\ud06c\ube5b ocean\n\nCome and give me all the smoke \ub3c4 \uc544\ub2c8\uba74 \ubaa8 like I\u2019m so rock and roll \n\nCome and give me all the smoke \ub2e4 \uc904 \uc138\uc6cc \ubd10 \uc790 STOP DROP\n\nI bring the pain like\n\nLa tatata La tatata La tatata La tatata \nLa tatata La tatata \n\nStraight to ya\nStraight to ya\nStraight to ya dome like\n\nLa tatata La tatata La tatata La tatata\nLa tatata La tatata\n\nI bring the pain like \n\n00:00 Pink Venom\n01:56 Join the #PinkVenomChallenge \n02:11 Only on YouTube Shorts \n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttps://www.instagram.com/BLACKPINKOFFICIAL\nhttps://twitter.com/BLACKPINK\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #MV \n#20220819_12amEST #20220819_1pmKST #OutNow #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gQlMMD8auMs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gQlMMD8auMs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gQlMMD8auMs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gQlMMD8auMs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gQlMMD8auMs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gQlMMD8auMs"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "gQlMMD8auMs",
+                "videoPublishedAt": "2022-08-19T04:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6cgiXBrvDbpT227pcLnPptHSXAg",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLkRBMnY5R25WTFRj",
+            "snippet": {
+                "publishedAt": "2022-08-17T10:00:49Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK #PinkVenomChallenge Coming soon! #LISA",
+                "description": "Stay tuned for #BLACKPINK \ud83d\udda4\ud83d\udc96 #PinkVenomChallenge Only on YouTube Shorts\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #LISA #\ub9ac\uc0ac #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DA2v9GnVLTc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DA2v9GnVLTc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DA2v9GnVLTc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DA2v9GnVLTc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DA2v9GnVLTc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DA2v9GnVLTc"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "DA2v9GnVLTc",
+                "videoPublishedAt": "2022-08-17T10:00:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "l10vHkUWMH8rNDlfgRpuaCHyPEY",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLklndlRBYVRzMWgw",
+            "snippet": {
+                "publishedAt": "2022-08-17T10:00:34Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK #PinkVenomChallenge Coming soon! #ROS\u00c9",
+                "description": "Stay tuned for #BLACKPINK \ud83d\udda4\ud83d\udc96 #PinkVenomChallenge Only on YouTube Shorts\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #ROS\u00c9 #\ub85c\uc81c #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IgvTAaTs1h0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IgvTAaTs1h0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IgvTAaTs1h0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IgvTAaTs1h0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IgvTAaTs1h0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IgvTAaTs1h0"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "IgvTAaTs1h0",
+                "videoPublishedAt": "2022-08-17T10:00:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yEbZuX1Yp-TJCbVUuvpqdXcWfB8",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLkctNmkyZXFycElJ",
+            "snippet": {
+                "publishedAt": "2022-08-17T10:00:18Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK #PinkVenomChallenge Coming soon! #JENNIE",
+                "description": "Stay tuned for #BLACKPINK \ud83d\udda4\ud83d\udc96 #PinkVenomChallenge Only on YouTube Shorts\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #JENNIE #\uc81c\ub2c8 #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G-6i2eqrpII/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G-6i2eqrpII/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G-6i2eqrpII/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G-6i2eqrpII/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G-6i2eqrpII/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G-6i2eqrpII"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "G-6i2eqrpII",
+                "videoPublishedAt": "2022-08-17T10:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z5Ixi3f2xfDYlLHr50gVQmY1vG0",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLnlfeEJvWU1qV2lr",
+            "snippet": {
+                "publishedAt": "2022-08-17T10:00:02Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK #PinkVenomChallenge Coming soon! #JISOO",
+                "description": "Stay tuned for #BLACKPINK \ud83d\udda4\ud83d\udc96 #PinkVenomChallenge Only on YouTube Shorts\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #JISOO #\uc9c0\uc218 #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y_xBoYMjWik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y_xBoYMjWik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y_xBoYMjWik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y_xBoYMjWik/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y_xBoYMjWik/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "y_xBoYMjWik"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "y_xBoYMjWik",
+                "videoPublishedAt": "2022-08-17T10:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uVLu2FJiSklnCC7gJr6Cjt2CLcs",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLlVUQ0M4azZLd25R",
+            "snippet": {
+                "publishedAt": "2022-08-16T15:00:16Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 M/V TEASER",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #MV_Teaser #20220819_12amEST #20220819_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UTCC8k6KwnQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UTCC8k6KwnQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UTCC8k6KwnQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UTCC8k6KwnQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UTCC8k6KwnQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UTCC8k6KwnQ"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "UTCC8k6KwnQ",
+                "videoPublishedAt": "2022-08-16T15:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LbZB4kENOUEMD8ISTKG9u-Wu1GI",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLmg4Nl93alRRMy1V",
+            "snippet": {
+                "publishedAt": "2022-08-16T10:00:02Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "#PinkVenomChallenge Coming Soon Only on YouTube Shorts",
+                "description": "See you soon #BLINKs \ud83d\udda4\ud83d\udc96 #PinkVenomChallenge\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #PinkVenomChallenge #YouTube #Shorts #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h86_wjTQ3-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h86_wjTQ3-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h86_wjTQ3-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h86_wjTQ3-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h86_wjTQ3-U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "h86_wjTQ3-U"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "h86_wjTQ3-U",
+                "videoPublishedAt": "2022-08-16T10:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fZbPKz_LsH8xqXxJZspGCU89vxY",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjZlQ0NSdkNXZXo4",
+            "snippet": {
+                "publishedAt": "2022-08-14T15:00:03Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 Concept Teaser",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #PreReleaseSingle #PinkVenom #ConceptTeaser #20220819_12amEST #20220819_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6eCCRvCWez8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6eCCRvCWez8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6eCCRvCWez8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6eCCRvCWez8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6eCCRvCWez8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6eCCRvCWez8"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "6eCCRvCWez8",
+                "videoPublishedAt": "2022-08-14T15:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aCSQkCEUeF3rSPSufWPymVxENRM",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLkZRa0k5UnRrbXJJ",
+            "snippet": {
+                "publishedAt": "2022-08-13T03:00:17Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 JISOO Concept Teaser #2",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #JISOO #\uc9c0\uc218 #PreReleaseSingle #PinkVenom #ConceptTeaser #20220819_12amEST #20220819_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FQkI9RtkmrI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FQkI9RtkmrI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FQkI9RtkmrI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FQkI9RtkmrI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FQkI9RtkmrI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FQkI9RtkmrI"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "FQkI9RtkmrI",
+                "videoPublishedAt": "2022-08-13T03:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BaSuahQjI5otv59xv5Jol4kpBOk",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjlxM2J5ZWdFQ3F3",
+            "snippet": {
+                "publishedAt": "2022-08-13T03:00:04Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 JENNIE Concept Teaser #2",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #JENNIE #\uc81c\ub2c8 #PreReleaseSingle #PinkVenom #ConceptTeaser #20220819_12amEST #20220819_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9q3byegECqw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9q3byegECqw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9q3byegECqw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9q3byegECqw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9q3byegECqw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9q3byegECqw"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "9q3byegECqw",
+                "videoPublishedAt": "2022-08-13T03:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Yy0FN3RKsuTzFfY9CFEhk7YK7BM",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjdDMFRld05na0RN",
+            "snippet": {
+                "publishedAt": "2022-08-12T15:00:31Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 ROS\u00c9 Concept Teaser #2",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #ROS\u00c9 #\ub85c\uc81c #PreReleaseSingle #PinkVenom #ConceptTeaser #20220819_12amEST #20220819_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7C0TewNgkDM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7C0TewNgkDM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7C0TewNgkDM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7C0TewNgkDM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7C0TewNgkDM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7C0TewNgkDM"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "7C0TewNgkDM",
+                "videoPublishedAt": "2022-08-12T15:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0sVshCgNVzzkt0wxzUIbs9kNEkM",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLkZ2RnlLdDFLWWZV",
+            "snippet": {
+                "publishedAt": "2022-08-12T15:00:17Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 LISA Concept Teaser #2",
+                "description": "#BLACKPINK #\ube14\ub799\ud551\ud06c #LISA #\ub9ac\uc0ac #PreReleaseSingle #PinkVenom #ConceptTeaser #20220819_12amEST #20220819_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FvFyKt1KYfU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FvFyKt1KYfU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FvFyKt1KYfU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FvFyKt1KYfU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FvFyKt1KYfU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FvFyKt1KYfU"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "FvFyKt1KYfU",
+                "videoPublishedAt": "2022-08-12T15:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xTiJIV36dzt-PpTbOiQwukurVZg",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLnFwSllQNHY4YUxv",
+            "snippet": {
+                "publishedAt": "2022-08-12T03:00:20Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 LISA Concept Teaser",
+                "description": "Pre-order BORN PINK now: https://blackpink.lnk.to/BPSHOP\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #LISA #\ub9ac\uc0ac #PreReleaseSingle #PinkVenom #ConceptTeaser #20220819_12amEST #20220819_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qpJYP4v8aLo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qpJYP4v8aLo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qpJYP4v8aLo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qpJYP4v8aLo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qpJYP4v8aLo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qpJYP4v8aLo"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "qpJYP4v8aLo",
+                "videoPublishedAt": "2022-08-12T03:00:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2PEke9vEM_X1MC-ql2Eh_8q2R78",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjk0OElBQ2UwMDAw",
+            "snippet": {
+                "publishedAt": "2022-08-12T03:00:02Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - \u2018Pink Venom\u2019 ROS\u00c9 Concept Teaser",
+                "description": "Pre-order BORN PINK now: https://blackpink.lnk.to/BPSHOP\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #ROS\u00c9 #\ub85c\uc81c #PreReleaseSingle #PinkVenom #ConceptTeaser #20220819_12amEST #20220819_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/948IACe0000/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/948IACe0000/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/948IACe0000/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/948IACe0000/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/948IACe0000/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "948IACe0000"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "948IACe0000",
+                "videoPublishedAt": "2022-08-12T03:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_kXSszt1zazNkiT0Xrq9VP81vlg",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjctOGQzNHlqSE5B",
+            "snippet": {
+                "publishedAt": "2022-08-11T15:00:57Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - 'Pink Venom' JENNIE Concept Teaser",
+                "description": "Pre-order BORN PINK now: https://blackpink.lnk.to/BPSHOP\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #JENNIE #\uc81c\ub2c8 #PreReleaseSingle #PinkVenom #ConceptTeaser #20220819_12amEST #20220819_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7-8d34yjHNA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7-8d34yjHNA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7-8d34yjHNA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7-8d34yjHNA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7-8d34yjHNA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7-8d34yjHNA"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "7-8d34yjHNA",
+                "videoPublishedAt": "2022-08-11T15:00:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SQtMq5CNcokIhQD0Ecan-wTmMWk",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLnZwVkJSVFhwSmVJ",
+            "snippet": {
+                "publishedAt": "2022-08-11T15:00:38Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - 'Pink Venom' JISOO Concept Teaser",
+                "description": "Pre-order BORN PINK now: https://blackpink.lnk.to/BPSHOP\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #JISOO #\uc9c0\uc218 #PreReleaseSingle #PinkVenom #ConceptTeaser #20220819_12amEST #20220819_1pmKST #Release #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vpVBRTXpJeI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vpVBRTXpJeI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vpVBRTXpJeI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vpVBRTXpJeI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vpVBRTXpJeI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vpVBRTXpJeI"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "vpVBRTXpJeI",
+                "videoPublishedAt": "2022-08-11T15:00:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qu9kfPdisQwQs6l5-OIl6jKp8FQ",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLm54czBSSHBUX0hn",
+            "snippet": {
+                "publishedAt": "2022-07-31T15:00:27Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK - 'BORN PINK' ANNOUNCEMENT TRAILER",
+                "description": "Pre-order BORN PINK now: https://blackpink.lnk.to/BPSHOP\n\n#BLACKPINK #\ube14\ub799\ud551\ud06c #BORNPINK #ANNOUNCEMENT #TRAILER #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nxs0RHpT_Hg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nxs0RHpT_Hg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nxs0RHpT_Hg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nxs0RHpT_Hg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nxs0RHpT_Hg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nxs0RHpT_Hg"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "nxs0RHpT_Hg",
+                "videoPublishedAt": "2022-07-31T15:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1W3t213uOFFSfRkpb5bWFPF-tgI",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjdXeUh0U2x2SEQ0",
+            "snippet": {
+                "publishedAt": "2022-07-29T04:00:03Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "BLACKPINK X PUBG MOBILE - \u2018Ready For Love\u2019 M/V",
+                "description": "BLACKPINK X PUBG MOBILE - \u2018Ready For Love\u2019 M/V\n\n\uc624\ub298 \ud558\ub8e8\ub3c4 \ub0b4 \uba38\ub9bf\uc18d\uc740 \uc624\uc9c1 Y-O-U\nCan\u2019t get you out of my head\n\ubc24\uc0c8 \ube44\uc6cc\ub0b8 \ubcd1\uc758 \uc0c9\uc740 BLUE\n\nYeah, \ub10c \ub3c4\ub300\uccb4 \uba87 \ubc88\uc744 \ub0b4 \ub9d8 \uac00\uc838\ub2e4 \ubc84\ub9b0 \uac74\uc9c0 \ubab0\ub77c\n\uc0dd\uac01\uc758 \uae30\ucc28\ub294 \uc26c\uc9c0 \uc54a\uace0 \ub2ec\ub824\uac00 \ubc24\uc0c8 \ubabb \uc790\n\nYeah, \ub10c \uc544\uc26c\uc6b8 \ub54c\ub9cc Yeah, \uadf8\uc800 \uc544\uc26c\uc6b8 \ub54c\ub9cc \ub0a0\nYeah, \uadf8\ub798 \uc544\uc26c\uc6b8 \ub54c\ub77c\ub3c4 \ub108\ub77c\uba74 \uc88b\uc73c\ub2c8\uae4c\n\n\uc774\uc820 \uae30\ub2e4\ub9b4 \uac83\ub3c4 \uc5c6\uc796\uc544\n\uac81\ub0bc \ud544\uc694\ub3c4 \uc5c6\uc796\uc544\n\ub124 \uc2ec\uc7a5\uc758 \uc0c9\uae54\uc744 \ubcf4\uc5ec\uc918\n\n\uc815\ub9d0 \ub0b4 \uc138\uc0c1\uc5d4 \ub124\uac00 \ud544\uc694\ud574\n\ub450 \ub208\uc744 \ub5a0\ubd10 \ub124 \uc55e\uc5d0 Here I am\n\nI\u2019m ready for love\n\nTell me when you\u2019re ready\nCuz I\u2019m already ready\nTell me when you\u2019re ready\nCuz\n\nI\u2019m ready for love\nI\u2019m ready for love I\u2019m ready for love\nI\u2019m ready for love\nI\u2019m ready for love\n\nReady or not, here I come and I\u2019m running\nLike it\u2019s now or never, I never know if you want it\nWhat if love wasn\u2019t what it was supposed to be?\nWhat if there\u2019s no Romeo for me?\nNo hope, no roses, no more notes to read\nSo I keep my eyes closed to see\nWhat I need is forever and forever baby, not sometimes\nWhen you want it then you best come find me cuz I\u2018m ready\n\n\uc774\uc820 \uae30\ub2e4\ub9b4 \uac83\ub3c4 \uc5c6\uc796\uc544\n\uac81\ub0bc \ud544\uc694\ub3c4 \uc5c6\uc796\uc544\n\ub124 \uc2ec\uc7a5\uc758 \uc0c9\uae54\uc744 \ubcf4\uc5ec\uc918\n\n\uc815\ub9d0 \ub0b4 \uc138\uc0c1\uc5d4 \ub124\uac00 \ud544\uc694\ud574\n\ub450 \ub208\uc744 \ub5a0\ubd10 \ub124 \uc55e\uc5d0 Here I am\n\nI\u2019m ready for love\n\nTell me when you\u2019re ready\nCuz I\u2019m already ready\nTell me when you\u2019re ready\nCuz\n\nI\u2019m ready for love\nI\u2019m ready for love I\u2019m ready for love\nI\u2019m ready for love\nI\u2019m ready for love\n\n\ub124 \uc601\ud63c\uacfc \ubaa8\ub4e0 \uac83\uc774\n\ub0a0 \ud669\ud640\ud558\uac8c \ud574 \uae30\ubed0 \uc6c3\uac8c \ud574\n\ub098\uc060 \uac70 \uc5c6\uc796\uc544\n\n\ub124 \ubaa8\ub4e0 \uac78 \ub0a0 \uc704\ud574 \ub358\uc9c8 \ub54c\n\ub110 \uc9c0\ucf1c\uc904\uac8c\n\nLalala lalalala Lalala lalalala\nLalala lalalala Lalala lalalala\n\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttps://www.instagram.com/BLACKPINKOFFICIAL\nhttps://twitter.com/BLACKPINK\n\n#BLACKPINKxPUBGM #BLACKPINK #\ube14\ub799\ud551\ud06c #PUBGM #\ubc30\ud2c0\uadf8\ub77c\uc6b4\ub4dc\ubaa8\ubc14\uc77c #SPECIALTRACK #ReadyForLove #OUTNOW #YG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7WyHtSlvHD4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7WyHtSlvHD4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7WyHtSlvHD4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7WyHtSlvHD4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7WyHtSlvHD4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7WyHtSlvHD4"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "7WyHtSlvHD4",
+                "videoPublishedAt": "2022-07-29T04:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FVIaoq3M3pp5-SYpXTkLo4mqLWM",
+            "id": "VVVPbUhVbi0tMTZCOTBvVzJMNkZSUjNBLjhyY2VHcVNGNC13",
+            "snippet": {
+                "publishedAt": "2022-06-02T02:00:01Z",
+                "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+                "title": "CALLING ALL BLINKS: REFLECT ON #COP26 \uc8fc\ud55c \uc601\uad6d\ub300\uc0ac\uc640 \ud568\uaed8\ud55c \ube14\ub799\ud551\ud06c\uc758 #\uae30\ud6c4\ud589\ub3d9 \ub3cc\uc544\ubcf4\uae30",
+                "description": "BLACKPINK returned to the British Embassy in Seoul to catch up with British Ambassador Colin Crooks(@ColinCrooks1).\n\nWATCH us discuss our experience around #COP26 & the need for continued #ClimateActionInYourArea \n\n#COP26 @UKinKorea",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8rceGqSF4-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8rceGqSF4-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8rceGqSF4-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8rceGqSF4-w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8rceGqSF4-w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BLACKPINK",
+                "playlistId": "UUOmHUn--16B90oW2L6FRR3A",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8rceGqSF4-w"
+                },
+                "videoOwnerChannelTitle": "BLACKPINK",
+                "videoOwnerChannelId": "UCOmHUn--16B90oW2L6FRR3A"
+            },
+            "contentDetails": {
+                "videoId": "8rceGqSF4-w",
+                "videoPublishedAt": "2022-06-02T02:00:01Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 444,
+        "resultsPerPage": 50
+    }
+}
