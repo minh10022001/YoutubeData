@@ -73,7 +73,7 @@ if choices=='View MV  Prediction':
 
 if choices=='Visual':
     plott = Plot()
-    visual_menu=["Subcriber of each channel","Time publish teaser and MV","Top video","Distribution chart"]
+    visual_menu=["Subcriber of each channel","Time publish teaser and MV","Top video","Distribution chart","Top Video Length","Relationship between Trailer view and MV view"]
     visual_choices=st.selectbox("Select Chart To View",visual_menu)
     st.write('You selected:', visual_choices)
     if(visual_choices=='Subcriber of each channel'):
@@ -87,5 +87,11 @@ if choices=='Visual':
         st.pyplot(chart)
     if(visual_choices=='Distribution chart'):
         chart = plott.show_distribution()
+        st.pyplot(chart)
+    if(visual_choices=='Top Video Length'):
+        chart = plott.show_top_video_length()
+        st.pyplot(chart)
+    if(visual_choices=='Relationship between Trailer view and MV view'):
+        chart = plott.show_scatter_view_count()
         st.pyplot(chart)
     

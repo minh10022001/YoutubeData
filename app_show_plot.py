@@ -37,14 +37,35 @@ class Plot():
         return plt
     
     def show_top_video(self):
-        df_view = self.df[['video_title','video_viewCount','video_likeCount','video_commentCount']]
-        df_view = df_view.sort_values(by='video_viewCount', ascending=False).head(5)       
+        df_view = self.df[['video_title_mv_official','video_viewCount_mv_official','video_duration_mv_official','video_channelSubscriber','video_viewCount']]
+        df_view = df_view.sort_values(by='video_viewCount_mv_official', ascending=False).drop_duplicates().head(5)    
         sns.set(style="whitegrid")
         sns.set(rc={'figure.figsize':(11.7,8.27)})
-        ax = sns.barplot(x="video_title", y="video_viewCount", data=df_view)
+        ax = sns.barplot(x="video_title_mv_official", y="video_viewCount_mv_official", data=df_view)
         ax.set_xticklabels(ax.get_xticklabels(), rotation=40, ha="right")
         return plt
     
+    def show_top_video_length(self):
+        df_view = self.df[['video_title_mv_official','video_viewCount_mv_official','video_duration_mv_official','video_channelSubscriber','video_viewCount']]        
+        sns.set(style="whitegrid")
+        sns.set(rc={'figure.figsize':(11.7,8.27)})
+        ax = sns.barplot(x="video_title_mv_official", y="video_duration_mv_official", data=df_view)
+        ax.set_xticklabels(ax.get_xticklabels(), rotation=40, ha="right")
+        ax.bar_label(ax.containers[0])
+        return plt
+    
+    def show_scatter_view_count(self):
+        sns.set(style="whitegrid")
+        sns.set(rc={'figure.figsize':(11.7,8.27)})
+        x = self.df['video_viewCount_mv_official']
+        y = self.df['video_viewCount']
+        plt.scatter(x, y)
+        # ax.set_xlabel('MV view count')
+        # ax.set_ylabel('Trailer view count')
+        plt.xlabel('MV view count')
+        plt.ylabel('Trailer view count')
+        return plt
+        
     def show_distribution(self):
         features = ['video_viewCount','video_likeCount','video_commentCount']
         plt.figure(figsize=(15, 7))
