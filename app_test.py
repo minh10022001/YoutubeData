@@ -56,7 +56,9 @@ if choices=='View MV  Prediction':
         st.dataframe(df)
         model=pk.load(open('rfrmodel.pkl','rb'))
         scaler=pk.load(open('scale.pkl','rb'))
-
-        scaler.transform(df)
-        ans=int(model.predict(df))
+        # a = [[1.        , 0.00615495, 0.00520615, 0.00282992, 0.02739726,
+        # 0.20512821, 0.15366188, 0.03147067, 0.00331995]]
+        a = scaler.transform(df)
+        st.text(a)
+        ans=int(model.predict(a))
         st.subheader("The view prediction of MV is {} views".format(ans))
